@@ -1,9 +1,10 @@
 # Tag Inputter
 複数のタグを補完入力可能なJQueryのプラグイン。
 
-[デモ](リンク)
 
-![Alt text](sample.png)
+<!--
+[デモ](リンク)
+![Alt text](sample.png)-->
 
 ## 使い方
 ### jQueryを読み込む
@@ -47,4 +48,4 @@ var data_tags = [
 <input type="hidden" name="skills" id="skills">
 ```
 
-に ***カンマ区切り*** で出力されます。
+に **カンマ区切り** で出力されます。
