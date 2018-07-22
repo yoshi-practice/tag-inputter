@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style.css">
+    <title>Tag Inputter</title>
+</head>
+
+<body>
+
+    <h1>Tag Inputter</h1>
+
+    <div id="tag_frame">
+
+        <div id="tags"></div>
+        <input type="text" id="tag_input">
+        <input type="hidden" name="skills" id="skills">
+
+    </div>
+
+    <h1>Result</h1>
+    <div id="result"></div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+
+    <script>
+        var data_tags = [
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "Java",
+            "RxJava",
+            "Swift",
+            "Objective-C",
+            "Ruby",
+            "Python",
+            "PHP",
+            "TypeScript",
+            "Dart",
+            "なでしこ",
+            "C",
+            "C#",
+            "C++",
+            "F#",
+            "D",
+            "BASIC",
+            "Brainfuck"
+        ];
+    </script>
+    <script src="input_tag.js"></script>
+
+</body>
+
+</html>
