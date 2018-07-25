@@ -49,3 +49,8 @@ var data_tags = [
 ```
 
 に **カンマ区切り** で出力されます。
+
+## LICENCE
+MIT Licence.
+Developed by [Yoshihisa Kaino.](https://github.com/yoshi1125hisa)
+Programming language list From [Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9E%E4%B8%80%E8%A6%A7)
