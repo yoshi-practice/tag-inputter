@@ -1,4 +1,4 @@
-# Tag Inputter
+# tag-inputter
 複数のタグを補完入力可能なJQueryのプラグイン。
 
 
